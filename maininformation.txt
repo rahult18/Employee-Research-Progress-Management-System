@@ -1,0 +1,21 @@
+Employee Research Progress Management System
+
+1.The detailed description and working of this project is given in the ppt named "DBMS Project Final Review"
+2.THIS PROJECT WAS DONE WITH THE HELP OF XAMPP WEB SERVER
+3.SOFTWARE USED
+      FRONT-END(CLIENT-SIDE)
+        HTML
+        CSS
+        BOOTSTRAP 4
+      BACK-END(SERVER-SIDE)
+        SQL 
+        PHP
+        JAVASCIRPT
+      XAMPP WEB SERVER IS USED TO CONNECT FRONT-END AND BACK-END
+4.All these code files should be in "C:\xampp\htdocs" and inside this create a folder of your own name here I have used "erp"
+5.Inside this erp create another folder named "ups" becuase we have to store the uploaded files from the faculty
+6.CONNECTING TO THE DATABASE
+	USERNAME-'root'
+	PASSWORD-''
+	DATABASE NAME-'employee_research_progress_management_system'			
+7.COMMAND TO CONNECT THE DATABASE IS IN THE mainphp.php FILE
