@@ -19,3 +19,4 @@ Employee Research Progress Management System
 	PASSWORD-''
 	DATABASE NAME-'employee_research_progress_management_system'			
 7.COMMAND TO CONNECT THE DATABASE IS IN THE mainphp.php FILE
+8.The website background image is given in the repositiory named "5.jpg"
