@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	require_once('dbconfig/mainphp.php');
+	require_once('mainphp.php');
 ?>
 <!DOCTYPE html>
 <html>
